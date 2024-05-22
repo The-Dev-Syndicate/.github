@@ -15,8 +15,10 @@ body:
         This helps keep our issues focused on actionable tasks and bug reports.
 
         Thank you for your understanding and participation!
-  - type: textarea
+ - type: textarea
     attributes:
-    placeholder: |
-      GitHub requires a non-markdown block so this is here.
-      That said please read above as this is an issue that will most likely be funnled into the discussions section any way!
+      label: Don't Write Here Please!
+      description: GitHub requires a non-markdown block here.
+      placeholder: |
+        GitHub requires a non-markdown block, so this is here.
+        That said, please read above as this is an issue that will most likely be funneled into the discussions section anyway!

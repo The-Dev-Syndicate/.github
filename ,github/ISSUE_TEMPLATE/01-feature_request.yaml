@@ -1,0 +1,42 @@
+name: Feature Request
+description: Looking for a feature
+title: "[Feature]: "
+labels: ["enhancement"]
+projects: []
+assignees:
+  - Development-Corps/core-developer 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form. Please include as much detail as possible!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: feature
+    attributes:
+      label: Give us the details.
+      description: What would make the product better?
+      placeholder: Details...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

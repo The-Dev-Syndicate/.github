@@ -1,0 +1,17 @@
+name: Discussion
+description: For open-ended discussions or brainstorming, please visit our Discord or GitHub Discussions board.
+title: "[DISCUSSION] "
+labels: [discussion]
+assignees: ''
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Discussions and Brainstorming
+
+        For open-ended discussions or brainstorming sessions, we encourage you to use our [Discord server(this is a WIP)](#) or our [GitHub Discussions board](https://github.com/orgs/Development-Corps/discussions).
+
+        This helps keep our issues focused on actionable tasks and bug reports.
+
+        Thank you for your understanding and participation!

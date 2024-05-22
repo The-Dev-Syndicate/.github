@@ -1,0 +1,22 @@
+name: Documentation Improvement
+description: Suggest changes or additions to the project documentation.
+title: "[DOCS] "
+labels: [documentation]
+assignees:
+  - Development-Corps/core-developer 
+body:
+  - type: input
+    attributes:
+      label: Documentation Link
+      description: Provide the link to the relevant documentation (if applicable).
+      placeholder: "https://docs.example.com"
+  - type: textarea
+    attributes:
+      label: Current Documentation
+      description: Describe the section of the documentation that needs improvement.
+      placeholder: "Section or topic..."
+  - type: textarea
+    attributes:
+      label: Suggested Improvements
+      description: Describe the changes or additions you would like to see.
+      placeholder: "Describe the improvements..."

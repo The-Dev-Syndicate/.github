@@ -1,0 +1,22 @@
+name: Enhancement Proposal
+description: Propose enhancements or improvements to existing features.
+title: "[ENHANCEMENT] "
+labels: [enhancement]
+assignees: 
+  - Development-Corps/core-developer 
+body:
+  - type: textarea
+    attributes:
+      label: Current Functionality
+      description: Describe the current functionality that you want to enhance.
+      placeholder: "Current functionality..."
+  - type: textarea
+    attributes:
+      label: Proposed Enhancement
+      description: Describe the enhancement or improvement you are proposing.
+      placeholder: "Describe the enhancement..."
+  - type: textarea
+    attributes:
+      label: Benefits
+      description: Explain the benefits of the proposed enhancement.
+      placeholder: "Benefits of the enhancement..."

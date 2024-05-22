@@ -1,6 +1,6 @@
 name: Question
 description: Hopefully we have answers!
-title: "[Question]: "
+title: "[Question] "
 labels: ["question"]
 projects: []
 assignees:

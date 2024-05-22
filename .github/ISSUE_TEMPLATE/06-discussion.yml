@@ -2,7 +2,7 @@ name: Discussion
 description: For open-ended discussions or brainstorming, please visit our Discord or GitHub Discussions board.
 title: "[DISCUSSION] "
 labels: [discussion]
-assignees: ''
+assignees: []
 
 body:
   - type: markdown

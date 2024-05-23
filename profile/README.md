@@ -14,7 +14,7 @@ Development Corps is dedicated to:
 
 We encourage everyone to get involved! Here's how you can start:
 
-- Propose a Project: Have an idea? Propose it! We welcome any and all project ideas.
+- Propose a Project: Have an idea? Propose it over on our [discussion board](https://github.com/orgs/Development-Corps/discussions) or in [discord(WIP)](#LinkToCome)! We welcome any and all project ideas.
 - Join a Project: Look for projects that interest you and offer your skills and time.
 - Contribute: Follow our contribution guidelines to understand how to contribute effectively and respectfully.
 
@@ -22,9 +22,9 @@ We encourage everyone to get involved! Here's how you can start:
 
 Staying connected is easy! Join us on our various platforms:
 
-- Discord Server: Join our Discord
-- Discussion Board: Participate in discussions and share ideas.
-- Email: Contact us at contact@developmentcorps.org for any inquiries.
+- Discord Server: [Join our Discord(WIP)](#LinkToCome)
+- Discussion Board: Participate in [discussions](https://github.com/orgs/Development-Corps/discussions) and share ideas.
+- Email: Contact us at dcorps@dcorps.dev for any inquiries.
 
 
 ## Future Goals

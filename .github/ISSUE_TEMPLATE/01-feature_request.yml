@@ -2,7 +2,7 @@ name: Feature Request
 description: Looking for a feature
 title: "[Feature] "
 labels: ["enhancement"]
-projects: []
+projects: [Development-Corps/2]
 assignees:
   - Development-Corps/core-developer 
 body:

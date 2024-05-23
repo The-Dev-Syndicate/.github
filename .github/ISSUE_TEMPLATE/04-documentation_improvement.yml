@@ -2,6 +2,7 @@ name: Documentation Improvement
 description: Suggest changes or additions to the project documentation.
 title: "[DOCS] "
 labels: [documentation]
+projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees:
   - Development-Corps/core-developer 
 body:

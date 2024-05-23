@@ -2,7 +2,7 @@ name: Question
 description: Hopefully we have answers!
 title: "[Question] "
 labels: ["question"]
-projects: []
+projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees:
   - Development-Corps/core-developer 
 body:

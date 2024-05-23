@@ -2,6 +2,7 @@ name: Enhancement Proposal
 description: Propose enhancements or improvements to existing features.
 title: "[ENHANCEMENT] "
 labels: [enhancement]
+projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees: 
   - Development-Corps/core-developer 
 body:

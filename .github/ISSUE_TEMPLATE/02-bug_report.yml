@@ -2,7 +2,7 @@ name: Bug Report
 description: Did you find a bug?
 title: "[Bug] "
 labels: ["bug"]
-projects: []
+projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees:
   - Development-Corps/core-developer 
 body:

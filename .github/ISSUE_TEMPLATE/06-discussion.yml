@@ -2,8 +2,8 @@ name: Discussion
 description: For open-ended discussions or brainstorming, please visit our Discord or GitHub Discussions board.
 title: "[DISCUSSION] "
 labels: [invalid]
+projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees: []
-
 body:
   - type: markdown
     attributes:

@@ -21,17 +21,11 @@ body:
   - type: textarea
     id: feature
     attributes:
-      label: Give us the details.
-      description: What would make the product better?
+      label: What is the Feature
+      description: What would could we add to make the product better?
       placeholder: Details...
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
   - type: checkboxes
     id: terms
     attributes:

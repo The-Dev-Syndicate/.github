@@ -21,3 +21,7 @@ body:
       label: Suggested Improvements
       description: Describe the changes or additions you would like to see.
       placeholder: "Describe the improvements..."
+  - type: markdown
+    attributes:
+      value: |
+        By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Development-Corps/.github?tab=coc-ov-file#readme).

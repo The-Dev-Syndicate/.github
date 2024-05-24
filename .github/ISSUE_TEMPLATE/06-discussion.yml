@@ -23,3 +23,7 @@ body:
       placeholder: |
         GitHub requires a non-markdown block, so this is here.
         That said, please read above as this is an issue that will most likely be funneled into the discussions section anyway!
+  - type: markdown
+    attributes:
+      value: |
+        By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Development-Corps/.github?tab=coc-ov-file#readme).

@@ -21,3 +21,7 @@ body:
       label: Benefits
       description: Explain the benefits of the proposed enhancement.
       placeholder: "Benefits of the enhancement..."
+  - type: markdown
+    attributes:
+      value: |
+        By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Development-Corps/.github?tab=coc-ov-file#readme).

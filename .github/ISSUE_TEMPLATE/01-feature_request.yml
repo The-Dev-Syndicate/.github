@@ -2,7 +2,7 @@ name: Feature Request
 description: Looking for a feature
 title: "[Feature] "
 labels: ["feature"]
-projects: # [Development-Corps/2] # Auto-magically tie to the org overview project
+# projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees:
   - Development-Corps/core-developer 
 body:

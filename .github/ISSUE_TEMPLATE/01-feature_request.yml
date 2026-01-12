@@ -1,5 +1,5 @@
 name: Feature Request
-description: Looking for a feature
+description: Generic high level feature request.
 title: "[Feature] "
 labels: ["feature"]
 # projects: [Development-Corps/2] # Auto-magically tie to the org overview project

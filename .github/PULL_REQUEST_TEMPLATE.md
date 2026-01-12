@@ -1,3 +1,10 @@
+---
+name: "Default PR Template"
+about: "Our default PR template"
+title: "[#] - "
+labels: []
+---
+
 ## Pull Request
 
 closes #{issue_number}

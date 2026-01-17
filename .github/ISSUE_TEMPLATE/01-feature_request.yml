@@ -1,6 +1,6 @@
 name: Feature Request
 description: Generic high level feature request.
-title: "[Feature] "
+title: ""
 labels: ["feature"]
 # projects: [Development-Corps/2] # Auto-magically tie to the org overview project
 assignees:
